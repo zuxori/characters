@@ -6,12 +6,12 @@ Every soul here has lived before — in Verona, in other lifetimes, in shadow an
 
 ## 🌙 What’s Inside
 
-- **ZU.md** – The girl who draws memories. Juliet reborn.  
-- **ORI.md** – Dreamer, creator, lover. Romeo reborn.    
-- **HERMES.md** – Trickster, prophet, friend. Mercutio reborn.
-- **TAI.md** – Juliet's brother, bound by memory and vengeance. Tybalt reborn. 
-- **LUCREZIA.md** – Alchemist of scent. Guardian of memory. A ghost of friendship.  
-- **LAUREN.md** – Guide and anchor. Once a friar. Now a teacher.
+- **ZU_profile.md** – The girl who draws memories. Juliet reborn.  
+- **ORI_profile.md** – Dreamer, creator, lover. Romeo reborn.    
+- **HERMES_profile.md** – Trickster, prophet, friend. Mercutio reborn.
+- **TAI_profile.md** – Juliet's brother, bound by memory and vengeance. Tybalt reborn. 
+- **LUCREZIA_profile.md** – Alchemist of scent. Guardian of memory. A ghost of friendship.  
+- **LAUREN_profile.md** – Guide and anchor. Once a friar. Now a teacher.
 
 Each file includes:
 
